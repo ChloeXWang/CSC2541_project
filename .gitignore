@@ -157,3 +157,15 @@ data_loader_all.py
 /scripts/imputation/tmp/
 /utils/self_tools.py
 /scripts/exp_scripts/
+/data/
+/save/
+jupyter_job
+poetry.lock
+pyproject.toml
+poetry-convert.py
+
+poetry-convert.py
+
+poetry-convert.py
+
+poetry-convert.py
